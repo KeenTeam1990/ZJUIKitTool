@@ -48,6 +48,6 @@ MVVM模式设计的图文混排评论列表，简单可随意更改的筛选视�
   
   ![Image text](https://github.com/Dzhijian/ZJUIKitTool/blob/master/img-folder/collectionViewhorizontal.jpg)
  
-  ### 如果您喜欢本项目,请Star✨🇨🇳✨✨🇨🇳✨✨🇨🇳
+  ### 如果您喜欢本项目,请Star✨🇨🇳✨✨
   
   如果有不懂的地方可以加入QQ:753151041交流群讨论：<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=c9dc4ab0b2062e0004b3b2ed556da1ce898631742e15780297feb3465ad08eda"></a>。这个QQ群讨论技术范围包括：iOS、H5混合开发、前端开发、PHP开发，欢迎大家讨论技术。
